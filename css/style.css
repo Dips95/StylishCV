@@ -1,0 +1,89 @@
+body{
+  text-align: center;
+}
+.top-container{
+  width: 100%;
+  background-color: #fcf8e8;
+  padding-bottom: 50px;
+}
+.middle-container{
+  width: 100%;
+  padding-top: 50px;
+}
+.bottom-container{
+  width: 100%;
+  background-color: #fcf8e8;
+}
+.s1{
+  position: relative;
+  right: 200px;
+}
+.s2{
+  position: relative;
+  top: 180px;
+  left: 300px;
+}
+.s3{
+  position: relative;
+  top: 5px;
+  left: 350px;
+}
+.myname{
+  position: relative;
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  color: #df7861;
+  line-height: 2;
+}
+.des{
+  position: relative;
+  font-family: 'Dancing Script', cursive;
+  font-size: 30px;
+  color: #ecb390;
+  font-weight: normal;
+}
+.profpic{
+  border-radius: 75px;
+  width: 25%;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+.paintimg{
+  width: 25%;
+  float: left;
+  margin: 30px;
+}
+.progimg{
+  width: 25%;
+  float: right;
+  margin: 30px;
+}
+h2{
+  font-family: 'Sacramento', cursive;
+  font-size: 50px;
+  color: #df7861;
+  line-height: 2;
+}
+h3{
+  font-family: 'IM Fell DW Pica', serif;
+  color: #df7861;
+  font-size: 30px;
+}
+hr{
+  border-color: #ecdfc8;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width: 5%;
+}
+.link{
+  font-family: 'Gurajada', serif;
+  font-size: 30px;
+}
+.footer{
+  font-family: 'Spectral SC', serif;
+}
